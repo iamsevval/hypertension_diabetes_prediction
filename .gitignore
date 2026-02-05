@@ -5,7 +5,6 @@
 __pycache__/
 *.pyc
 
-# (opsiyonel) PDF dışı raporlar vs
 # *.log
 
 # Local project files (not for repo)
