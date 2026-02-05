@@ -8,4 +8,6 @@ __pycache__/
 # (opsiyonel) PDF dışı raporlar vs
 # *.log
 
+# Local project files (not for repo)
+Proje Dosyaları/
 
