@@ -7,10 +7,11 @@ Bu proje, kullanıcıların temel sağlık verilerini (yaş, cinsiyet, BMI, tuz 
 
 ## 🚀 Proje Hakkında
 
-**Hypertension & Diabetes Prediction**, erken teşhisin öneminden yola çıkarak geliştirilmiş bir sağlık asistanıdır. Kaggle veri setleri ile eğitilen Lojistik Regresyon modeli, kullanıcıdan alınan girdileri işler ve olası risk durumlarını yüzdesel olarak sunar.
+**Hypertension & Diabetes Prediction**, erken teşhisin hayat kurtarıcı öneminden yola çıkarak; kullanıcıların temel sağlık verilerini ve yaşam tarzı alışkanlıklarını analiz edip, olası Hipertansiyon (HTN) ve Diyabet (DM) risklerini yapay zeka destekli modellerle tahmin eden masaüstü tabanlı bir Karar Destek Sistemidir.  Kaggle veri setleri ile eğitilen Lojistik Regresyon modeli, kullanıcıdan alınan girdileri işler ve olası risk durumlarını yüzdesel olarak sunar.
 
 ### Temel Özellikler
 * **Anlık Risk Analizi:** Girilen verilere göre hipertansiyon ve diyabet riskini saniyeler içinde hesaplar.
+* **Senaryo Bazlı Simülasyon:** Sistem, kullanıcının mevcut durumunu (Tam Sağlıklı, Sadece HTN vb.) algılar ve buna göre "Hipertansiyon var ama Diyabet riski nedir?" gibi çapraz sorgulamalar yapar. 
 * **Kullanıcı Dostu Arayüz (GUI):** Tkinter ile tasarlanmış, herkesin kolayca kullanabileceği sade bir arayüz.
 * **Görselleştirme:** Matplotlib grafikleri ile sağlık verilerinin analizi.
 * **Veri Kaydı:** Kullanıcı verilerini CSV formatında saklayarak geçmiş takibi yapma imkanı.
@@ -19,9 +20,12 @@ Bu proje, kullanıcıların temel sağlık verilerini (yaş, cinsiyet, BMI, tuz 
 
 * **Python:** Ana programlama dili.
 * **Tkinter:** Grafiksel kullanıcı arayüzü (GUI).
-* **Scikit-learn:** Makine öğrenmesi modeli (Logistic Regression).
+* **Scikit-learn:** Makine öğrenmesi modeli (Logistic Regression, Class Weighting).
 * **Pandas & NumPy:** Veri işleme ve analizi.
 * **Matplotlib:** Grafik ve veri görselleştirme.
+* **ReportLab:** Dinamik PDF rapor üretimi.
+
+Sadece matematiksel bir olasılık hesabı yapmakla kalmayıp, kullanıcının "Tuz tüketimim riski ne kadar artırıyor?"sorusuna görsel yanıtlar veren bu çalışma, teorik makine öğrenmesi algoritmalarının son kullanıcıya hitap eden pratik bir yazılıma dönüşümünü temsil etmektedir.
 
 ## 📂 Kurulum ve Çalıştırma
 
