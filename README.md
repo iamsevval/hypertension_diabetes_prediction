@@ -30,7 +30,7 @@ Bu proje, kullanıcıların temel sağlık verilerini (yaş, cinsiyet, BMI, tuz 
 * **ReportLab:** Dinamik PDF rapor üretimi.
 
 Sadece matematiksel bir olasılık hesabı yapmakla kalmayıp, kullanıcının "Tuz tüketimim riski ne kadar artırıyor?"sorusuna görsel yanıtlar veren bu çalışma, teorik makine öğrenmesi algoritmalarının son kullanıcıya hitap eden pratik bir yazılıma dönüşümünü temsil etmektedir.
-<img width="1512" height="982" alt="2" src="https://github.com/user-attachments/assets/de881ef8-5d85-4c42-b6f0-12ddfb271ec4" />
+<img width="1512" height="982" alt="4" src="https://github.com/user-attachments/assets/bc32d333-a5de-4494-a0cd-2837d293bf64" />
 
 
 ## 📂 Kurulum ve Çalıştırma
