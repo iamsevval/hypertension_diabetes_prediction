@@ -8,6 +8,8 @@ Bu proje, kullanıcıların temel sağlık verilerini (yaş, cinsiyet, BMI, tuz 
 ## 🚀 Proje Hakkında
 
 **Hypertension & Diabetes Prediction**, erken teşhisin hayat kurtarıcı öneminden yola çıkarak; kullanıcıların temel sağlık verilerini ve yaşam tarzı alışkanlıklarını analiz edip, olası Hipertansiyon (HTN) ve Diyabet (DM) risklerini yapay zeka destekli modellerle tahmin eden masaüstü tabanlı bir Karar Destek Sistemidir.  Kaggle veri setleri ile eğitilen Lojistik Regresyon modeli, kullanıcıdan alınan girdileri işler ve olası risk durumlarını yüzdesel olarak sunar.
+<img width="1512" height="982" alt="1" src="https://github.com/user-attachments/assets/179076ef-f34e-4697-9b01-0f4c17351bb8" />
+
 
 ### Temel Özellikler
 * **Anlık Risk Analizi:** Girilen verilere göre hipertansiyon ve diyabet riskini saniyeler içinde hesaplar.
@@ -15,6 +17,8 @@ Bu proje, kullanıcıların temel sağlık verilerini (yaş, cinsiyet, BMI, tuz 
 * **Kullanıcı Dostu Arayüz (GUI):** Tkinter ile tasarlanmış, herkesin kolayca kullanabileceği sade bir arayüz.
 * **Görselleştirme:** Matplotlib grafikleri ile sağlık verilerinin analizi.
 * **Veri Kaydı:** Kullanıcı verilerini CSV formatında saklayarak geçmiş takibi yapma imkanı.
+<img width="1512" height="982" alt="2" src="https://github.com/user-attachments/assets/6abe6fea-44df-4ae4-a5be-e0d440cb485a" />
+
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -26,6 +30,8 @@ Bu proje, kullanıcıların temel sağlık verilerini (yaş, cinsiyet, BMI, tuz 
 * **ReportLab:** Dinamik PDF rapor üretimi.
 
 Sadece matematiksel bir olasılık hesabı yapmakla kalmayıp, kullanıcının "Tuz tüketimim riski ne kadar artırıyor?"sorusuna görsel yanıtlar veren bu çalışma, teorik makine öğrenmesi algoritmalarının son kullanıcıya hitap eden pratik bir yazılıma dönüşümünü temsil etmektedir.
+<img width="1512" height="982" alt="2" src="https://github.com/user-attachments/assets/de881ef8-5d85-4c42-b6f0-12ddfb271ec4" />
+
 
 ## 📂 Kurulum ve Çalıştırma
 
